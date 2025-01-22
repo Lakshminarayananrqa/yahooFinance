@@ -1,5 +1,10 @@
-
+ 
 project developed : selenium/java/cucumber
+
+The "Common" package includes all the utility and support classes.
+
+The "Test" package contains all the test-related classes and feature files.
+
 
 Prerequisites:
 Before you can run the tests, make sure you have the following installed:
@@ -21,6 +26,13 @@ reposetery path : src\test\java\testRunner\testRunner.java
 Report Path : target\cucumber-html-report\index.html
 
 5.The logs will be displayed in the console.
+
+project Over view :
+
+Common folder have all the utility and support class
+
+Test folder have all test code related class and feature files 
+ 
 
 
 
